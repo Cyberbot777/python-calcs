@@ -1,3 +1,4 @@
+# refactored calc fx
 def add_numbers():
     try:
         num1 = float(input("Enter a number: "))
